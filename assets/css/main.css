@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #26294d !important;
 		}
 
 	strong, b {
@@ -201,7 +201,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: #555;
+		background: #009EE0;
 		border-radius: 5px;
 		color: #fff;
 		font-family: "Source Code Pro", monospace;
